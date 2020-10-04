@@ -29,6 +29,8 @@ Done with botnets have this bye
 
 🌌 Please give credit.
 
+🌌 By downloading you agree that the creator(s) are not at fault for what you do with this project.
+
 
 
 
