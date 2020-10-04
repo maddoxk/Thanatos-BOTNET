@@ -1,3 +1,6 @@
+//DRAIN
+
+
 package main
 
 import (
