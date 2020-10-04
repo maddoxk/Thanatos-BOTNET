@@ -1,3 +1,5 @@
+// Normal Mirai build. I recommend you do this manually as the script may not work on some distrubutions of CentOS
+
 #!/bin/bash
 export PATH=$PATH:/etc/xcompile/armv4l/bin
 export PATH=$PATH:/etc/xcompile/armv5l/bin
