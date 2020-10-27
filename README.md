@@ -19,7 +19,7 @@
 
 Done with botnets have this bye
 
-🌌 Credits: Light.#9979 Limo#5387
+🌌 Credits: Light.#9979 limo#5387
 
 🌌 Thanatos is a Botnet that pushes the limits of the Mirai base. Thanatos features powerful meathods from the Dev behind the Hito Botnet.
 
