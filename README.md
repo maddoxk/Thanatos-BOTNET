@@ -19,13 +19,11 @@
 
 Done with botnets have this bye
 
-🌌 Credits: Light.#9979 DreamSec#5387
-
 🌌 Thanatos is a Botnet that pushes the limits of the Mirai base. Thanatos features powerful meathods from the Dev behind the Hito Botnet.
 
 🌌 Thanatos is made to be easy to change to your liking, as we use a very simple structure.
 
-🌌 No pasting. MIT License.
+🌌 Added 25+ Architectures.
 
 🌌 Please give credit.
 
